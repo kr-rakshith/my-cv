@@ -1,3 +1,3 @@
 # my-cv
 rakshith's CV
-https://github.com/kr-rakshith/my-cv.git
+<a href="B:\web development\html\cv.html>read me <a>
